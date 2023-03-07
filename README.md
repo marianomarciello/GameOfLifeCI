@@ -1,7 +1,7 @@
 # Game Of Life (CI)
 
 Implementation of [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in ruby.
-The input generation is provided in the "./input.txt" file.
+The input generation is provided in the `input.txt` file.
 
 ## Run
 
